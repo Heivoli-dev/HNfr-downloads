@@ -1,682 +1,280 @@
 {
-  "revision": 1,
-  "sheets": [],
-  "provider": "retrostic",
+  "revision": 6700,
+  "provider": "Universal-DB NDS homebrew",
+  "sheets": [
+    "https://db.universal-team.net/unistore/universal-db-0.t3x",
+    "https://db.universal-team.net/unistore/universal-db-1.t3x"
+  ],
   "apps": [
     {
-      "id": "nds-82246",
-      "name": "New Super Mario Bros.",
-      "author": "US",
-      "description": "Nintendo DS · Role-Playing, Adventure\nRégion : US\nSource : Retrostic",
+      "author": "William278",
+      "description": "Better Call Saul for the Nintendo DS.",
+      "icon": 252,
+      "id": "43e3f9c5cb8fec57",
+      "license": "apache-2.0",
+      "name": "Better Call Saul DS",
+      "sheet": 0,
+      "version": "1.0",
+      "warning": "",
       "platforms": [
         "NDS"
       ],
       "categories": [
         "game"
       ],
-      "region": "US",
-      "source": "https://www.retrostic.com/fr/roms/nds/new-super-mario-bros-g-82246",
-      "sheet": -1,
-      "icon": -1,
+      "region": "WW",
       "files": [
         {
-          "name": "Version US",
           "format": "nds",
-          "archive": "7z",
-          "url": "https://downloads.retrostic.com/roms/0434%20-%20New%20Super%20Mario%20Bros.%20%28U%29%28Psyfer%29.7z",
-          "size": "Taille fournie au téléchargement"
+          "name": "bcsds.nds",
+          "size": "825 KiB",
+          "url": "https://github.com/WiIIiam278/BCSDS/releases/download/1.0/bcsds.nds"
         }
-      ]
+      ],
+      "source": "https://db.universal-team.net/3ds/43e3f9c5cb8fec57"
     },
     {
-      "id": "nds-82977",
-      "name": "Mario Kart DS",
-      "author": "US",
-      "description": "Nintendo DS · Racing\nRégion : US\nSource : Retrostic",
+      "author": "My-name-is-TJ",
+      "description": "Blimp Chicken DS: Drink & drive an airship, dodge fighter jets, smoke, and ram skyscrapers in a 3D arcade combat game.",
+      "icon": 138,
+      "id": "1e2893f7bf59ae65",
+      "license": "cc0-1.0",
+      "name": "blimp-chicken-ds",
+      "sheet": 0,
+      "version": "NdsFile",
+      "warning": "",
       "platforms": [
         "NDS"
       ],
       "categories": [
         "game"
       ],
-      "region": "US",
-      "source": "https://www.retrostic.com/fr/roms/nds/mario-kart-ds-original-82977",
-      "sheet": -1,
-      "icon": -1,
+      "region": "WW",
       "files": [
         {
-          "name": "Version US",
           "format": "nds",
-          "archive": "7z",
-          "url": "https://downloads.retrostic.com/roms/0168%20-%20Mario%20Kart%20DS%20%28U%29%28SCZ%29.7z",
-          "size": "Taille fournie au téléchargement"
+          "name": "BlimpChicken.nds",
+          "size": "1 MiB",
+          "url": "https://github.com/My-name-is-TJ/blimp-chicken-ds/releases/download/NdsFile/BlimpChicken.nds"
         }
-      ]
+      ],
+      "source": "https://db.universal-team.net/3ds/1e2893f7bf59ae65"
     },
     {
-      "id": "nds-82976",
-      "name": "Pokemon - Black Version (E)",
-      "author": "EU",
-      "description": "Nintendo DS · Role-Playing\nRégion : EU\nSource : Retrostic",
+      "author": "Garhoogin",
+      "description": "Close The Box but made terribly on the DS",
+      "icon": 83,
+      "id": "16564e19b102f152",
+      "license": "bsd-2-clause",
+      "name": "Box",
+      "sheet": 0,
+      "version": "v1.0.0.0",
+      "warning": "",
       "platforms": [
         "NDS"
       ],
       "categories": [
         "game"
       ],
-      "region": "EU",
-      "source": "https://www.retrostic.com/fr/roms/nds/pokemon-black-version-eur-82976",
-      "sheet": -1,
-      "icon": -1,
+      "region": "WW",
       "files": [
         {
-          "name": "Version EU",
           "format": "nds",
-          "archive": "zip",
-          "url": "https://downloads.retrostic.com/roms/5585%20-%20Pokemon%20-%20Black%20Version%20%28DSi%20Enhanced%29%28USA%29%20%28E%29.zip",
-          "size": "Taille fournie au téléchargement"
+          "name": "box.nds",
+          "size": "435 KiB",
+          "url": "https://github.com/Garhoogin/Box/releases/download/v1.0.0.0/box.nds"
         }
-      ]
+      ],
+      "source": "https://db.universal-team.net/3ds/16564e19b102f152"
     },
     {
-      "id": "nds-74733",
-      "name": "Animal Crossing - Wild World (E)(Legacy)",
-      "author": "EU",
-      "description": "Nintendo DS · Adventure, Simulation\nRégion : EU\nSource : Retrostic",
+      "author": "William278",
+      "description": "Breaking Bad, as a Nintendo DS game! Master the art of the cook and prepare the perfect batch—lest you meet the wrong end of Gus. Hone your cook in both Singleplayer and Local Multiplayer Vs.",
+      "icon": 253,
+      "id": "d19ab0bf9dedd29c",
+      "license": "apache-2.0",
+      "name": "Breaking Bad DS",
+      "sheet": 0,
+      "version": "1.0.6",
+      "warning": "",
       "platforms": [
         "NDS"
       ],
       "categories": [
         "game"
       ],
-      "region": "EU",
-      "source": "https://www.retrostic.com/fr/roms/nds/animal-crossing-wild-world-g-74733",
-      "sheet": -1,
-      "icon": -1,
+      "region": "WW",
       "files": [
         {
-          "name": "Version EU",
           "format": "nds",
-          "archive": "7z",
-          "url": "https://downloads.retrostic.com/roms/0389%20-%20Animal%20Crossing%20-%20Wild%20World%20%28E%29%28Legacy%29.7z",
-          "size": "Taille fournie au téléchargement"
+          "name": "breaking-bad-ds.nds",
+          "size": "5 MiB",
+          "url": "https://github.com/WiIIiam278/breaking-bad-ds/releases/download/1.0.6/breaking-bad-ds.nds"
         }
-      ]
+      ],
+      "source": "https://db.universal-team.net/3ds/d19ab0bf9dedd29c"
     },
     {
-      "id": "nds-82980",
-      "name": "Pokemon - White 2 (v01) (J)",
-      "author": "JP",
-      "description": "Nintendo DS · Role-Playing\nRégion : JP\nSource : Retrostic",
+      "author": "Garhoogin",
+      "description": "Gravity Game for DS.",
+      "icon": 84,
+      "id": "50696e3742f689e5",
+      "license": "bsd-2-clause",
+      "name": "Gravity",
+      "sheet": 0,
+      "version": "v1.0.0.0",
+      "warning": "",
       "platforms": [
         "NDS"
       ],
       "categories": [
         "game"
       ],
-      "region": "JP",
-      "source": "https://www.retrostic.com/fr/roms/nds/pokemon-white-2-v01-jp-82980",
-      "sheet": -1,
-      "icon": -1,
+      "region": "WW",
       "files": [
         {
-          "name": "Version JP",
           "format": "nds",
-          "archive": "7z",
-          "url": "https://downloads.retrostic.com/roms/Pokemon-White-Version-2.7z",
-          "size": "Taille fournie au téléchargement"
+          "name": "gravity.nds",
+          "size": "377 KiB",
+          "url": "https://github.com/Garhoogin/Gravity/releases/download/v1.0.0.0/gravity.nds"
         }
-      ]
+      ],
+      "source": "https://db.universal-team.net/3ds/50696e3742f689e5"
     },
     {
-      "id": "nds-82983",
-      "name": "Kirby Super Stars Ultra",
-      "author": "US",
-      "description": "Nintendo DS · Platform, Action\nRégion : US\nSource : Retrostic",
+      "author": "StackZ",
+      "description": "Ein Ludo klon für den Nintendo DS(i).",
+      "icon": 210,
+      "id": "8bc693f2c9f7fff2",
+      "license": "gpl-3.0",
+      "name": "LudoNDS",
+      "sheet": 0,
+      "version": "v0.1.0",
+      "warning": "",
       "platforms": [
         "NDS"
       ],
       "categories": [
         "game"
       ],
-      "region": "US",
-      "source": "https://www.retrostic.com/fr/roms/nds/kirby-super-stars-ultra2-82983",
-      "sheet": -1,
-      "icon": -1,
+      "region": "WW",
       "files": [
         {
-          "name": "Version US",
           "format": "nds",
-          "archive": "7z",
-          "url": "https://downloads.retrostic.com/roms/2696%20-%20Kirby%20Super%20Stars%20Ultra%20%28U%29%28XenoPhobia%29.7z",
-          "size": "Taille fournie au téléchargement"
+          "name": "LudoNDS.nds",
+          "size": "955 KiB",
+          "url": "https://github.com/SuperSaiyajinStackZ/LudoNDS/releases/download/v0.1.0/LudoNDS.nds"
         }
-      ]
+      ],
+      "source": "https://db.universal-team.net/3ds/8bc693f2c9f7fff2"
     },
     {
-      "id": "nds-74994",
-      "name": "LEGO Marvel Super Heroes Universe in Peril (U)(ABSTRAKT)",
-      "author": "US",
-      "description": "Nintendo DS · \nRégion : US\nSource : Retrostic",
+      "author": "Jonatan",
+      "description": "It's like the classic game pong, but with guns.",
+      "icon": 99,
+      "id": "4907c999c62c9255",
+      "license": "gpl-3.0",
+      "name": "Pistol Pong DS",
+      "sheet": 0,
+      "version": "v1.0",
+      "warning": "",
       "platforms": [
         "NDS"
       ],
       "categories": [
         "game"
       ],
-      "region": "US",
-      "source": "https://www.retrostic.com/fr/roms/nds/lego-marvel-super-heroes-universe-in-peril-74994",
-      "sheet": -1,
-      "icon": -1,
+      "region": "WW",
       "files": [
         {
-          "name": "Version US",
           "format": "nds",
-          "archive": "7z",
-          "url": "https://downloads.retrostic.com/roms/6325%20-%20LEGO%20Marvel%20Super%20Heroes%20Universe%20in%20Peril%20%28U%29%28ABSTRAKT%29.7z",
-          "size": "Taille fournie au téléchargement"
+          "name": "Pistol-Pong-DS.nds",
+          "size": "186 KiB",
+          "url": "https://github.com/Jonatan6/Pistol-Pong-DS/releases/download/v1.0/Pistol-Pong-DS.nds"
         }
-      ]
+      ],
+      "source": "https://db.universal-team.net/3ds/4907c999c62c9255"
     },
     {
-      "id": "nds-83031",
-      "name": "Mario & Luigi - Partners In Time (E)",
-      "author": "EU",
-      "description": "Nintendo DS · Role-Playing\nRégion : EU\nSource : Retrostic",
+      "author": "Sean David",
+      "description": "The homebrew boxing game made for the Nintendo DS!  Play as Rooney \"Punchstache\" Bafutto, a 22-year-old Italian boxer who quits his job as a plumber. Fight against five fighters, become champion, then defend your title!",
+      "icon": 5,
+      "id": "0b866b0679798acf",
+      "license": "apache-2.0",
+      "name": "PUNCH-A-ROONEY!",
+      "sheet": 1,
+      "version": "1.0.1",
+      "warning": "",
       "platforms": [
         "NDS"
       ],
       "categories": [
         "game"
       ],
-      "region": "EU",
-      "source": "https://www.retrostic.com/fr/roms/nds/mario-luigi-partners-in-time-eur-83031",
-      "sheet": -1,
-      "icon": -1,
+      "region": "WW",
       "files": [
         {
-          "name": "Version EU",
           "format": "nds",
-          "archive": "7z",
-          "url": "https://downloads.retrostic.com/roms/0297%20-%20Mario%20%26%20Luigi%20-%20Partners%20in%20Time%20%28E%29%28Trashman%29.7z",
-          "size": "Taille fournie au téléchargement"
+          "name": "Punch-A-Rooney.nds",
+          "size": "13 MiB",
+          "url": "https://github.com/seaners42/Punch-A-Rooney/releases/download/1.0.1/Punch-A-Rooney.nds"
         }
-      ]
+      ],
+      "source": "https://db.universal-team.net/3ds/0b866b0679798acf"
     },
     {
-      "id": "nds-82989",
-      "name": "Mario Kart DS (E)",
-      "author": "EU",
-      "description": "Nintendo DS · Racing\nRégion : EU\nSource : Retrostic",
+      "author": "RocketRobz",
+      "description": "Take pictures of your favorite all-star video game characters, in glorious Horizon HD (800px mode)!",
+      "icon": 184,
+      "id": "96f8a2d72d370b36",
+      "license": "mit",
+      "name": "Super Photo Studio",
+      "sheet": 0,
+      "version": "v1.1.0",
+      "warning": "",
       "platforms": [
         "NDS"
       ],
       "categories": [
         "game"
       ],
-      "region": "EU",
-      "source": "https://www.retrostic.com/fr/roms/nds/mario-kart-ds-eu-82989",
-      "sheet": -1,
-      "icon": -1,
+      "region": "WW",
       "files": [
         {
-          "name": "Version EU",
           "format": "nds",
-          "archive": "7z",
-          "url": "https://downloads.retrostic.com/roms/0201%20-%20Mario%20Kart%20DS%20%28E%29%28Spliff%29.7z",
-          "size": "Taille fournie au téléchargement"
+          "name": "SuperPhotoStudio.nds",
+          "size": "266 MiB",
+          "url": "https://github.com/RocketRobz/SuperAllStarPhotoStudio/releases/download/v1.1.0/SuperPhotoStudio.nds"
         }
-      ]
+      ],
+      "source": "https://db.universal-team.net/3ds/96f8a2d72d370b36"
     },
     {
-      "id": "nds-82986",
-      "name": "Legend Of Zelda - Phantom Hourglass, The",
-      "author": "US",
-      "description": "Nintendo DS · Action, Adventure\nRégion : US\nSource : Retrostic",
+      "author": "Jonatan",
+      "description": "Tic Tac DS is a tic-tac-toe clone for the NDS.",
+      "icon": 100,
+      "id": "5808c604f48f6e40",
+      "license": "gpl-3.0",
+      "name": "Tic-Tac-DS",
+      "sheet": 0,
+      "version": "v3.1",
+      "warning": "",
       "platforms": [
         "NDS"
       ],
       "categories": [
         "game"
       ],
-      "region": "US",
-      "source": "https://www.retrostic.com/fr/roms/nds/legend-of-zelda-phantom-hourglass-game-the-82986",
-      "sheet": -1,
-      "icon": -1,
+      "region": "WW",
       "files": [
         {
-          "name": "Version US",
           "format": "nds",
-          "archive": "7z",
-          "url": "https://downloads.retrostic.com/roms/1456%20-%20Legend%20of%20Zelda%20-%20Phantom%20Hourglass%2C%20The%20%28U%29%28Independent%29.7z",
-          "size": "Taille fournie au téléchargement"
+          "name": "tic-tac-ds.nds",
+          "size": "156 KiB",
+          "url": "https://github.com/Jonatan6/Tic-Tac-DS/releases/download/v3.1/tic-tac-ds.nds"
         }
-      ]
-    },
-    {
-      "id": "nds-74814",
-      "name": "Plants vs. Zombies (U)",
-      "author": "US",
-      "description": "Nintendo DS · Strategy, Puzzle\nRégion : US\nSource : Retrostic",
-      "platforms": [
-        "NDS"
       ],
-      "categories": [
-        "game"
-      ],
-      "region": "US",
-      "source": "https://www.retrostic.com/fr/roms/nds/plants-vs-zombies-74814",
-      "sheet": -1,
-      "icon": -1,
-      "files": [
-        {
-          "name": "Version US",
-          "format": "nds",
-          "archive": "zip",
-          "url": "https://downloads.retrostic.com/roms/5496%20-%20Plants%20vs.%20Zombies%20%28U%29.zip",
-          "size": "Taille fournie au téléchargement"
-        }
-      ]
-    },
-    {
-      "id": "nds-83046",
-      "name": "Donkey Kong - Jungle Climber (E)",
-      "author": "EU",
-      "description": "Nintendo DS · Action\nRégion : EU\nSource : Retrostic",
-      "platforms": [
-        "NDS"
-      ],
-      "categories": [
-        "game"
-      ],
-      "region": "EU",
-      "source": "https://www.retrostic.com/fr/roms/nds/donkey-kong-jungle-climber-eur-83046",
-      "sheet": -1,
-      "icon": -1,
-      "files": [
-        {
-          "name": "Version EU",
-          "format": "nds",
-          "archive": "7z",
-          "url": "https://downloads.retrostic.com/roms/1492%20-%20Donkey%20Kong%20-%20Jungle%20Climber%20%28E%29%28XenoPhobia%29.7z",
-          "size": "Taille fournie au téléchargement"
-        }
-      ]
-    },
-    {
-      "id": "nds-75007",
-      "name": "Spider-Man - Shattered Dimensions (U)",
-      "author": "US",
-      "description": "Nintendo DS · Action, Platformer\nRégion : US\nSource : Retrostic",
-      "platforms": [
-        "NDS"
-      ],
-      "categories": [
-        "game"
-      ],
-      "region": "US",
-      "source": "https://www.retrostic.com/fr/roms/nds/spider-man-shattered-dimensions-75007",
-      "sheet": -1,
-      "icon": -1,
-      "files": [
-        {
-          "name": "Version US",
-          "format": "nds",
-          "archive": "zip",
-          "url": "https://downloads.retrostic.com/roms/5204%20-%20Spider-Man%20-%20Shattered%20Dimensions%20%28U%29.zip",
-          "size": "Taille fournie au téléchargement"
-        }
-      ]
-    },
-    {
-      "id": "nds-83029",
-      "name": "Legend Of Zelda - Phantom Hourglass, The (E)",
-      "author": "EU",
-      "description": "Nintendo DS · Action, Adventure\nRégion : EU\nSource : Retrostic",
-      "platforms": [
-        "NDS"
-      ],
-      "categories": [
-        "game"
-      ],
-      "region": "EU",
-      "source": "https://www.retrostic.com/fr/roms/nds/legend-of-zelda-phantom-hourglass-the-eur-83029",
-      "sheet": -1,
-      "icon": -1,
-      "files": [
-        {
-          "name": "Version EU",
-          "format": "nds",
-          "archive": "7z",
-          "url": "https://downloads.retrostic.com/roms/1514%20-%20Legend%20of%20Zelda%20-%20Phantom%20Hourglass%2C%20The%20%28E%29%28EXiMiUS%29.7z",
-          "size": "Taille fournie au téléchargement"
-        }
-      ]
-    },
-    {
-      "id": "nds-82990",
-      "name": "Legend Of Zelda - Spirit Tracks, The (US)",
-      "author": "US",
-      "description": "Nintendo DS · Action, Adventure\nRégion : US\nSource : Retrostic",
-      "platforms": [
-        "NDS"
-      ],
-      "categories": [
-        "game"
-      ],
-      "region": "US",
-      "source": "https://www.retrostic.com/fr/roms/nds/legend-of-zelda-spirit-tracks-the-usa-82990",
-      "sheet": -1,
-      "icon": -1,
-      "files": [
-        {
-          "name": "Version US",
-          "format": "nds",
-          "archive": "7z",
-          "url": "https://downloads.retrostic.com/roms/4527%20-%20Legend%20of%20Zelda%20-%20Spirit%20Tracks%2C%20The%20%28US%29%28M3%29%28XenoPhobia%29.7z",
-          "size": "Taille fournie au téléchargement"
-        }
-      ]
-    },
-    {
-      "id": "nds-83014",
-      "name": "Assassin's Creed - Altair's Chronicles (E)",
-      "author": "EU",
-      "description": "Nintendo DS · Action, Adventure\nRégion : EU\nSource : Retrostic",
-      "platforms": [
-        "NDS"
-      ],
-      "categories": [
-        "game"
-      ],
-      "region": "EU",
-      "source": "https://www.retrostic.com/fr/roms/nds/assassins-creed-altairs-chronicles-e-83014",
-      "sheet": -1,
-      "icon": -1,
-      "files": [
-        {
-          "name": "Version EU",
-          "format": "nds",
-          "archive": "7z",
-          "url": "https://downloads.retrostic.com/roms/2039%20-%20Assassin%27s%20Creed%20-%20Altair%27s%20Chronicles%20%28E%29%28EXiMiUS%29.7z",
-          "size": "Taille fournie au téléchargement"
-        }
-      ]
-    },
-    {
-      "id": "nds-75140",
-      "name": "Cooking Mama 2 - Dinner with Friends (E)(EXiMiUS)",
-      "author": "EU",
-      "description": "Nintendo DS · Simulation, Minigame Collection\nRégion : EU\nSource : Retrostic",
-      "platforms": [
-        "NDS"
-      ],
-      "categories": [
-        "game"
-      ],
-      "region": "EU",
-      "source": "https://www.retrostic.com/fr/roms/nds/cooking-mama-2-dinner-with-friends-75140",
-      "sheet": -1,
-      "icon": -1,
-      "files": [
-        {
-          "name": "Version EU",
-          "format": "nds",
-          "archive": "7z",
-          "url": "https://downloads.retrostic.com/roms/2011%20-%20Cooking%20Mama%202%20-%20Dinner%20with%20Friends%20%28E%29%28EXiMiUS%29.7z",
-          "size": "Taille fournie au téléchargement"
-        }
-      ]
-    },
-    {
-      "id": "nds-74978",
-      "name": "Need for Speed - Underground 2 (U)(Trashman)",
-      "author": "US",
-      "description": "Nintendo DS · Action, Driving/Racing\nRégion : US\nSource : Retrostic",
-      "platforms": [
-        "NDS"
-      ],
-      "categories": [
-        "game"
-      ],
-      "region": "US",
-      "source": "https://www.retrostic.com/fr/roms/nds/need-for-speed-underground-2-74978",
-      "sheet": -1,
-      "icon": -1,
-      "files": [
-        {
-          "name": "Version US",
-          "format": "nds",
-          "archive": "7z",
-          "url": "https://downloads.retrostic.com/roms/0002%20-%20Need%20for%20Speed%20-%20Underground%202%20%28U%29%28Trashman%29.7z",
-          "size": "Taille fournie au téléchargement"
-        }
-      ]
-    },
-    {
-      "id": "nds-81866",
-      "name": "Pokemon Black 2 (US) (frieNDS)",
-      "author": "US",
-      "description": "Nintendo DS · Role-Playing\nRégion : US\nSource : Retrostic",
-      "platforms": [
-        "NDS"
-      ],
-      "categories": [
-        "game"
-      ],
-      "region": "US",
-      "source": "https://www.retrostic.com/fr/roms/nds/pokemon-black-2-usa-friends-81866",
-      "sheet": -1,
-      "icon": -1,
-      "files": [
-        {
-          "name": "Version US",
-          "format": "nds",
-          "archive": "7z",
-          "url": "https://downloads.retrostic.com/roms/6111%20-%20Pokemon%20Black%202%20%28US%29%20%28frieNDS%29.7z",
-          "size": "Taille fournie au téléchargement"
-        }
-      ]
-    },
-    {
-      "id": "nds-83040",
-      "name": "Resident Evil - Deadly Silence (E)",
-      "author": "EU",
-      "description": "Nintendo DS · Action, Adventure\nRégion : EU\nSource : Retrostic",
-      "platforms": [
-        "NDS"
-      ],
-      "categories": [
-        "game"
-      ],
-      "region": "EU",
-      "source": "https://www.retrostic.com/fr/roms/nds/resident-evil-deadly-silence-e-83040",
-      "sheet": -1,
-      "icon": -1,
-      "files": [
-        {
-          "name": "Version EU",
-          "format": "nds",
-          "archive": "zip",
-          "url": "https://downloads.retrostic.com/roms/Resident%20Evil%20-%20Deadly%20Silence%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip",
-          "size": "Taille fournie au téléchargement"
-        }
-      ]
-    },
-    {
-      "id": "nds-74911",
-      "name": "Dragon Ball Z - Goku Densetsu (E)(XenoPhobia)",
-      "author": "EU",
-      "description": "Nintendo DS · Role-Playing, Card Game\nRégion : EU\nSource : Retrostic",
-      "platforms": [
-        "NDS"
-      ],
-      "categories": [
-        "game"
-      ],
-      "region": "EU",
-      "source": "https://www.retrostic.com/fr/roms/nds/dragon-ball-z-goku-densetsu-74911",
-      "sheet": -1,
-      "icon": -1,
-      "files": [
-        {
-          "name": "Version EU",
-          "format": "nds",
-          "archive": "7z",
-          "url": "https://downloads.retrostic.com/roms/1379%20-%20Dragon%20Ball%20Z%20-%20Goku%20Densetsu%20%28E%29%28XenoPhobia%29.7z",
-          "size": "Taille fournie au téléchargement"
-        }
-      ]
-    },
-    {
-      "id": "nds-82979",
-      "name": "Pokemon - Black 2 (v01) (J)",
-      "author": "US",
-      "description": "Nintendo DS · Role-Playing\nRégion : US\nSource : Retrostic",
-      "platforms": [
-        "NDS"
-      ],
-      "categories": [
-        "game"
-      ],
-      "region": "US",
-      "source": "https://www.retrostic.com/fr/roms/nds/pokemon-black-2-v01-jap-82979",
-      "sheet": -1,
-      "icon": -1,
-      "files": [
-        {
-          "name": "Version US",
-          "format": "nds",
-          "archive": "7z",
-          "url": "https://downloads.retrostic.com/roms/pokemon-black-2-%28J%29.7z",
-          "size": "Taille fournie au téléchargement"
-        }
-      ]
-    },
-    {
-      "id": "nds-83051",
-      "name": "Pokemon - Black (J)",
-      "author": "JP",
-      "description": "Nintendo DS · Role-Playing\nRégion : JP\nSource : Retrostic",
-      "platforms": [
-        "NDS"
-      ],
-      "categories": [
-        "game"
-      ],
-      "region": "JP",
-      "source": "https://www.retrostic.com/fr/roms/nds/pokemon-black-jp-83051",
-      "sheet": -1,
-      "icon": -1,
-      "files": [
-        {
-          "name": "Version JP",
-          "format": "nds",
-          "archive": "zip",
-          "url": "https://downloads.retrostic.com/roms/5216%20-%20Pokemon%20-%20Black%20%28DSi%20Enhanced%29%20%28J%29.zip",
-          "size": "Taille fournie au téléchargement"
-        }
-      ]
-    },
-    {
-      "id": "nds-74869",
-      "name": "Professor Layton and the Curious Village (E)(EXiMiUS)",
-      "author": "EU",
-      "description": "Nintendo DS · Adventure, Puzzle\nRégion : EU\nSource : Retrostic",
-      "platforms": [
-        "NDS"
-      ],
-      "categories": [
-        "game"
-      ],
-      "region": "EU",
-      "source": "https://www.retrostic.com/fr/roms/nds/professor-layton-and-the-curious-village-74869",
-      "sheet": -1,
-      "icon": -1,
-      "files": [
-        {
-          "name": "Version EU",
-          "format": "nds",
-          "archive": "7z",
-          "url": "https://downloads.retrostic.com/roms/2888%20-%20Professor%20Layton%20and%20the%20Curious%20Village%20%28E%29%28EXiMiUS%29.7z",
-          "size": "Taille fournie au téléchargement"
-        }
-      ]
-    },
-    {
-      "id": "nds-74980",
-      "name": "Call of Duty 4 - Modern Warfare (U)(Micronauts)",
-      "author": "US",
-      "description": "Nintendo DS · First-Person Shooter\nRégion : US\nSource : Retrostic",
-      "platforms": [
-        "NDS"
-      ],
-      "categories": [
-        "game"
-      ],
-      "region": "US",
-      "source": "https://www.retrostic.com/fr/roms/nds/call-of-duty-4-modern-warfare-iso-74980",
-      "sheet": -1,
-      "icon": -1,
-      "files": [
-        {
-          "name": "Version US",
-          "format": "nds",
-          "archive": "7z",
-          "url": "https://downloads.retrostic.com/roms/1617%20-%20Call%20of%20Duty%204%20-%20Modern%20Warfare%20%28U%29%28Micronauts%29.7z",
-          "size": "Taille fournie au téléchargement"
-        }
-      ]
-    },
-    {
-      "id": "nds-74945",
-      "name": "Adventure Time Hey Ice King Whyd you Steal our Garbage! (U)(EXiMiUS)",
-      "author": "US",
-      "description": "Nintendo DS · Platformer, Action-Adventure\nRégion : US\nSource : Retrostic",
-      "platforms": [
-        "NDS"
-      ],
-      "categories": [
-        "game"
-      ],
-      "region": "US",
-      "source": "https://www.retrostic.com/fr/roms/nds/adventure-time-hey-ice-king-whyd-you-steal-our-garbage-74945",
-      "sheet": -1,
-      "icon": -1,
-      "files": [
-        {
-          "name": "Version US",
-          "format": "nds",
-          "archive": "7z",
-          "url": "https://downloads.retrostic.com/roms/6126%20-%20Adventure%20Time%20Hey%20Ice%20King%20Whyd%20you%20Steal%20our%20Garbage%21%20%28U%29%28EXiMiUS%29.7z",
-          "size": "Taille fournie au téléchargement"
-        }
-      ]
-    },
-    {
-      "id": "nds-81864",
-      "name": "Pokemon Mystery Dungeon - Explorers Of Sky (US)",
-      "author": "US",
-      "description": "Nintendo DS · Role-Playing\nRégion : US\nSource : Retrostic",
-      "platforms": [
-        "NDS"
-      ],
-      "categories": [
-        "game"
-      ],
-      "region": "US",
-      "source": "https://www.retrostic.com/fr/roms/nds/pokemon-mystery-dungeon-explorers-of-sky-usa-81864",
-      "sheet": -1,
-      "icon": -1,
-      "files": [
-        {
-          "name": "Version US",
-          "format": "nds",
-          "archive": "7z",
-          "url": "https://downloads.retrostic.com/roms/4273%20-%20Pokemon%20Mystery%20Dungeon%20-%20Explorers%20of%20Sky%20%28US%29%28XenoPhobia%29.7z",
-          "size": "Taille fournie au téléchargement"
-        }
-      ]
+      "source": "https://db.universal-team.net/3ds/5808c604f48f6e40"
     }
   ]
 }
